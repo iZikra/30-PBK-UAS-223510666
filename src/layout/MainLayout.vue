@@ -1,6 +1,6 @@
 <template>
     <q-layout view="hHh lpR fff">
-      <q-header class="bg-primary text-black">
+      <q-header elevated class="bg-black text-white">
         <q-toolbar>
           <q-toolbar-title align="left">Zikrallah Al-Hady WebApp</q-toolbar-title>
         </q-toolbar>
